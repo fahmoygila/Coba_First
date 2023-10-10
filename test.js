@@ -1,1 +1,1 @@
-console.log('GIT baru coy');
+console.log('GIT baru coy di edit');
